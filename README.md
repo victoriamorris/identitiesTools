@@ -4,6 +4,7 @@ Tools for reconciling ISNI, VIAF and other identifiers for agents
 ## Requirements
 
 Requires the regex module from https://bitbucket.org/mrabarnett/mrab-regex. The built-in re module is not sufficient.
+
 Also requires fuzzywuzzy, glob, sqlite3.
 
 ## Installation
